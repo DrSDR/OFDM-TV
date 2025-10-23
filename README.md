@@ -20,7 +20,7 @@ t = [dt:dt:pw];
 
 t = t - pw/2;
 
-lfm = exp(1i*pi*slope*t.^2);
+lfm = exp(1i*  pi  *slope  *t.^2);
 
 you will need a matched filter to find this chirp signal in I/Q wave file.
 
