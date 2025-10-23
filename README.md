@@ -22,6 +22,10 @@ t = t - pw/2;
 
 lfm = exp(1i*pi*slope*t.^2);
 
+you will need a matched filter to find this chirp signal in I/Q wave file.
+
+
+
 
 after chirp signal is ofdm tv signal 
 this ofdm signal has  480*1024 samples in total
