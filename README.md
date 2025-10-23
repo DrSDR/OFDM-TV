@@ -47,4 +47,8 @@ and so on
 the image contains a amazon gift card.
 
 
-l
+if image is neg,  then just x by -1  
+
+imagesc( -1 * pic)
+
+
